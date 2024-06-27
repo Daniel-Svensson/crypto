@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xmlkrypt", "xmlkrypt.csproj", "{20A9B1DB-10C3-4DBD-A83D-18C7424CA39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmskrypt", "..\cmskrypt\cmskrypt.csproj", "{33E7916A-AE0D-4D43-86D2-7F385FB159A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A9B1DB-10C3-4DBD-A83D-18C7424CA39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A9B1DB-10C3-4DBD-A83D-18C7424CA39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A9B1DB-10C3-4DBD-A83D-18C7424CA39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A9B1DB-10C3-4DBD-A83D-18C7424CA39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E7916A-AE0D-4D43-86D2-7F385FB159A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E7916A-AE0D-4D43-86D2-7F385FB159A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E7916A-AE0D-4D43-86D2-7F385FB159A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E7916A-AE0D-4D43-86D2-7F385FB159A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9426E3-8345-4461-AA1E-45743B65424E}
+	EndGlobalSection
+EndGlobal
